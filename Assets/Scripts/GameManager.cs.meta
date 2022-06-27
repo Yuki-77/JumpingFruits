@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0e7a68bcc0dd2e04e908ff37d3eecf7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverCanvas: {instanceID: 0}
+  - player: {instanceID: 0}
+  - playerMovement: {instanceID: 0}
+  - basesMovement: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - popUpMenuButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
